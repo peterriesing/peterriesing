@@ -1,4 +1,4 @@
-<h3 align="center">Graphic Designer & Illustrator beginning a career in development</h3>
+<h3 align="center">Graphic Designer & Illustrator beginning a career in Web Development</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
